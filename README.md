@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Phiroj Shah</h1>
-<h3 align="center">A passionate MERN_Stack developer from Nepal interested in the JS + MERN</h3>
+<h3 align="center">A passionate MERN_Stack developer :man_technologist: from Nepal </h3>
 
+- :telescope: I’m currently pursuing my undergraduate studies at Kathmandu University.
 - 🌱 I’m currently learning **MERN Stack,Cybersecurity**
 
-- 💬 Ask me about React,MERN,Javascript,CyberSecurity
+
 
 - :mailbox: How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phiroj-shah-226563233/)
 <h3 align="left">Connect with me:</h3>
