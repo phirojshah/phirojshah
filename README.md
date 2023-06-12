@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack,Cybersecurity**
 
-- 💬 Ask me about React,MERN,typescript,CyberSecurity
+- 💬 Ask me about React,MERN,Javascript,CyberSecurity
 
 - :mailbox: How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phiroj-shah-226563233/)
 <h3 align="left">Connect with me:</h3>
