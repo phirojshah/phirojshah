@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phiroj Shah</h1>
-<h3 align="center">A passionate MERN_Stack developer from Nepal interested in the JS + MERN+ TS</h3>
+<h3 align="center">A passionate MERN_Stack developer from Nepal interested in the JS + MERN</h3>
 
 - 🌱 I’m currently learning **MERN Stack,Cybersecurity**
 
